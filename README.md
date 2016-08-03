@@ -9,5 +9,7 @@ lessons I am learning
 - managing is really about being a :poop: :umbrella: for the people you manage
 - in other words, managers are there to protect everyone "below" them on the org chart [from as much crap from above as possible](http://shitumbrella.ideationkings.com/), 
 ```
-[Your] role is to protect it from pointless meetings, unnecessary interruptions and random changes so they can focus on doing their job.
+"[Your] role is to protect it from pointless meetings,
+unnecessary interruptions and random changes
+so they can focus on doing their job."
 ```
