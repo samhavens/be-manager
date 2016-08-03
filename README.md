@@ -7,4 +7,7 @@ lessons I am learning
 - the reason I feel overwhelmed is because I am currently an engineering manager, a product manager, and the face of the tech team in business meetings, and I am still learning how to improve in all of those roles
 - people need to be shown respect by a manager, and one way to do that is by respecting their time
 - managing is really about being a :poop: :umbrella: for the people you manage
-- in other words, managers are there to protect everyone "below" them on the org chart [from as much crap from above as possible](http://shitumbrella.ideationkings.com/)
+- in other words, managers are there to protect everyone "below" them on the org chart [from as much crap from above as possible](http://shitumbrella.ideationkings.com/), 
+```
+[Your] role is to protect it from pointless meetings, unnecessary interruptions and random changes so they can focus on doing their job.
+```
