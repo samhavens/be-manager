@@ -13,3 +13,4 @@ lessons I am learning
 unnecessary interruptions and random changes
 so they can focus on doing their job."
 ```
+- honesty and transparency are pretty much always the way to go.
