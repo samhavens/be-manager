@@ -18,5 +18,7 @@ so they can focus on doing their job."
 - protect the engineers' flow state!
 - [senior engineers reduce risk](https://medium.com/@ztellman/senior-engineers-reduce-risk-5ab2adc13c97#.45prgrqbo), but
 ```
-Through trial and error, engineers can identify the sorts of problems they enjoy solving. A senior engineer should find a company which both has those problems, and knows it. Anything else will lead to frustration, and eventually apathy.
+Through trial and error, engineers can identify the sorts of problems they enjoy solving.
+A senior engineer should find a company which both has those problems, and knows it.
+Anything else will lead to frustration, and eventually apathy.
 ```
