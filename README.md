@@ -16,3 +16,4 @@ so they can focus on doing their job."
 - honesty and transparency are pretty much always the way to go.
 - be empirical about people things. [For example, estimates](http://www.joelonsoftware.com/items/2007/10/26.html)
 - protect the engineers' flow state!
+- [senior engineers reduce risk](https://medium.com/@ztellman/senior-engineers-reduce-risk-5ab2adc13c97#.45prgrqbo)
