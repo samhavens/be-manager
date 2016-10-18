@@ -22,3 +22,4 @@ Through trial and error, engineers can identify the sorts of problems they enjoy
 A senior engineer should find a company which both has those problems, and knows it.
 Anything else will lead to frustration, and eventually apathy.
 ```
+- [Read this](http://larahogan.me/blog/manager-levels/)
