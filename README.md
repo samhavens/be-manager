@@ -23,3 +23,4 @@ A senior engineer should find a company which both has those problems, and knows
 Anything else will lead to frustration, and eventually apathy.
 ```
 - [Read this](http://larahogan.me/blog/manager-levels/)
+- Language and phrasing is really important. [This article](http://www.latimes.com/opinion/op-ed/la-oe-cialdini-presuasion-20161023-snap-story.html) is very relevant to product and marketing, but it is also worth keeping in mind when talking to those that you manage. As an engineer, I sometimes pretend that humans only converse to exchange information, and make decisions completely rationally. But, even engineers don't really act that way.
